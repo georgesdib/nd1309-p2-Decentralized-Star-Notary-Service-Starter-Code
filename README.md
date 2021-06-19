@@ -15,3 +15,6 @@ The project was developed using the below versions:
     - Web3.js v1.3.6
 
 2. openzeppelin version: 4.1.0
+
+### Screenshots
+I also added a folder called screenshots which contains few screenshots of the Rinkeby deployment.
